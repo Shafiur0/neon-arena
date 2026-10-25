@@ -2,6 +2,8 @@
 
 A complete 3D arena survival shooter that runs in a single HTML file.
 
+**Play it:** https://neon-arena-dun.vercel.app
+
 You pilot a gunship in a circular neon arena. Enemies spawn at the edge and swarm you.
 Your cannons auto-target the nearest hostile, so the game is entirely about positioning,
 dodging, and knowing when to dash.
