@@ -3,10 +3,10 @@
 </p>
 
 <p align="center">
-  <a href="https://neon-arena-dun.vercel.app"><img src="https://img.shields.io/badge/PLAY_LIVE-2de2ff?style=for-the-badge&labelColor=0a1220" alt="Play live"></a>
-  <img src="https://img.shields.io/badge/THREE.JS-r160-6ff0ff?style=for-the-badge&labelColor=0a1220" alt="Three.js r160">
-  <img src="https://img.shields.io/badge/SINGLE_FILE-1_HTML-9b8cff?style=for-the-badge&labelColor=0a1220" alt="Single file">
-  <img src="https://img.shields.io/badge/NO_BUILD_STEP-none-4dffb0?style=for-the-badge&labelColor=0a1220" alt="No build step">
+  <a href="https://neon-arena-dun.vercel.app"><img src="https://img.shields.io/badge/PLAY_NOW-2de2ff?style=for-the-badge" alt="Play now"></a>
+  <img src="https://img.shields.io/badge/THREE.JS_r160-131e2b?style=for-the-badge" alt="Three.js r160">
+  <img src="https://img.shields.io/badge/SINGLE_FILE-131e2b?style=for-the-badge" alt="Single file">
+  <img src="https://img.shields.io/badge/NO_BUILD_STEP-131e2b?style=for-the-badge" alt="No build step">
 </p>
 
 <p align="center">
@@ -28,8 +28,8 @@ It's one file. No bundler, no `node_modules`, no assets folder — every mesh, p
 
 ## What's in it
 
-| | |
-|---|---|
+| Feature | What it does |
+| :--- | :--- |
 | **Auto-targeting guns** | Bullets always fly at the nearest hostile in range. You never aim, so every decision is about position. |
 | **Three enemy types** | **Drifters** — fast and fragile. **Brutes** — slow, tanky, hit for a quarter of your hull. **Spitters** — hold range and snipe you. |
 | **Eight stackable upgrades** | Fire rate, damage, pierce, extra barrels, hull, speed, dash cooldown. They compound — by wave 10 you're firing a wall of piercing rounds. |
@@ -51,16 +51,17 @@ It's one file. No bundler, no `node_modules`, no assets folder — every mesh, p
 
 ## Screenshots
 
-<table>
-  <tr>
-    <td width="50%"><img src="assets/gameplay.png" alt="Wave combat"></td>
-    <td width="50%"><img src="assets/upgrade.png" alt="Upgrade selection"></td>
-  </tr>
-  <tr>
-    <td align="center"><sub>Wave 1 — the swarm closes in</sub></td>
-    <td align="center"><sub>Clear a wave, pick one of three</sub></td>
-  </tr>
-</table>
+<p align="center">
+  <img src="assets/gameplay.png" alt="Wave combat" width="100%">
+  <br>
+  <sub>Wave 1 — the swarm closes in</sub>
+</p>
+
+<p align="center">
+  <img src="assets/upgrade.png" alt="Upgrade selection" width="100%">
+  <br>
+  <sub>Clear a wave, pick one of three</sub>
+</p>
 
 ## Under the hood
 
